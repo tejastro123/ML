@@ -1,0 +1,8 @@
+datascience
+pandas-profiling
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+ipywidgets
